@@ -39,6 +39,15 @@ Netcash Wordpress Donations Plugin
 - **Admin Dashboard**: Go to **Netcash > Donations** to view a detailed overview of donations, including timestamps, reference numbers, donor information, and status.
 - **Transaction Details**: Click on any donation reference or the "Open" icon to manage transaction or print a detailed donation certificate.
 
+### Support
+
+Support
+For installation assistance, contact Netcash Technical Support:
+
+Phone: 086-133-8338
+Email: support@netcash.co.za
+You can also find a video walkthrough in Netcash > Welcome for an overview of plugin setup and configuration.
+
 ## Shortcodes
 
 - **Donation Form**: Place `[netcash_form]` in any post, page, or widget area to display the donation form.
