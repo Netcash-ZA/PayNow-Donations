@@ -46,10 +46,3 @@ Netcash Wordpress Donations Plugin
 Example:
 ```html
 [netcash_form]
-
-Support
-For installation assistance, contact Netcash Technical Support:
-
-Phone: 086-133-8338
-Email: support@netcash.co.za
-You can also find a video walkthrough in Netcash > Welcome for an overview of plugin setup and configuration.
