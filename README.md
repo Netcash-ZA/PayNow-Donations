@@ -23,7 +23,7 @@ Netcash Wordpress Donations Plugin
    - In the WordPress admin menu, navigate to **Netcash > Settings**.
    - Enter your **Pay Now Service Key** and configure other form options, including displayed fields and colors.
 
-## Configuration
+### Configuration
 
 ### Netcash Settings
 - **Pay Now Service Key**: Add your Netcash Pay Now service key.
