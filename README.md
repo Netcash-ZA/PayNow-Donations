@@ -1,6 +1,5 @@
 # Netcash-Donations
 Netcash Wordpress Donations Plugin
-# Netcash Donations
 
 **Netcash Donations** is a WordPress plugin that enables seamless donation processing via the Netcash payment gateway. It includes customizable donation forms, recurring donation options, and a built-in admin dashboard to manage donations.
 
