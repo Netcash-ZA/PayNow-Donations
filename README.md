@@ -1,2 +1,2 @@
-# Netcash_Donations
+# Netcash-Donations
 Netcash Wordpress Donations Plugin
