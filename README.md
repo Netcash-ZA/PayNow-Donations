@@ -29,6 +29,7 @@ Netcash Wordpress Donations Plugin
 - **Pay Now Service Key**: Add your Netcash Pay Now service key.
 - **Display Options**: Toggle options to show/hide fields like Name, Surname, Email, and Mobile Number.
 - **Customizable Colors**: Adjust button colors, toggle colors, and donation amount background colors.
+- **Donation Email Confirmation**: setup email template.
 
 ### Donation Amounts
 - Customize preset donation amounts through the **Settings** page under **Netcash > Settings**.
