@@ -9,6 +9,7 @@ Netcash Wordpress Donations Plugin
 - [Usage](#usage)
 - [Shortcodes](#shortcodes)
 - [Customizations](#customizations)
+- [Postback URLs](#usage)
 - [Support](#support)
 
 ## Installation
@@ -39,6 +40,10 @@ Netcash Wordpress Donations Plugin
 ### Donations Management
 - **Admin Dashboard**: Go to **Netcash > Donations** to view a detailed overview of donations, including timestamps, reference numbers, donor information, and status.
 - **Transaction Details**: Click on any donation reference or the "Open" icon to manage transaction or print a detailed donation certificate.
+
+## Postback URLs Setup
+- **Login to Netcash**: Go to Account Profile > Netconnector
+- **Pay Now**: Edit > Select None then copy and paste the Postback URLs from the plugin.
 
 ### Support
 
